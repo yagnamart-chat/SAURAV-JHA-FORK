@@ -1,3 +1,4 @@
+Test build trigger
 # Scrolliosis
 
 Scrolliosis is an open-source Android app that helps you reclaim focus by blocking distracting apps behind a knowledge gate. Instead of scrolling mindlessly, you must answer a question from your personal Knowledge Vault before any blocked app is allowed to open - for a limited time window only.
